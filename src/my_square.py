@@ -3,6 +3,7 @@ def my_square(x):
 	return(x ** 2)
 
 def my_square2(x):
+	# adding a bit more notation
 	return(x * 200)
 
 print(my_square2(4))
